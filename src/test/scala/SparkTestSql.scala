@@ -1,3 +1,4 @@
+package tendai.spark.test
 import org.apache.spark.sql.functions._
 
 /**
